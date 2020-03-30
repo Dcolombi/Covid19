@@ -1,0 +1,514 @@
+[
+	{
+		"name": "Chieti",
+		"cases": 273
+	},
+	{
+		"name": "L'Aquila",
+		"cases": 115
+	},
+	{
+		"name": "Pescara",
+		"cases": 594
+	},
+	{
+		"name": "Teramo",
+		"cases": 363
+	},
+	{
+		"name": "Abruzzo - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Matera",
+		"cases": 92
+	},
+	{
+		"name": "Potenza",
+		"cases": 122
+	},
+	{
+		"name": "Basilicata - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Bolzano",
+		"cases": 1325
+	},
+	{
+		"name": "P.A. Bolzano - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Catanzaro",
+		"cases": 134
+	},
+	{
+		"name": "Cosenza",
+		"cases": 184
+	},
+	{
+		"name": "Crotone",
+		"cases": 93
+	},
+	{
+		"name": "Reggio di Calabria",
+		"cases": 190
+	},
+	{
+		"name": "Vibo Valentia",
+		"cases": 44
+	},
+	{
+		"name": "Calabria - to be updated",
+		"cases": 2
+	},
+	{
+		"name": "Avellino",
+		"cases": 220
+	},
+	{
+		"name": "Benevento",
+		"cases": 70
+	},
+	{
+		"name": "Caserta",
+		"cases": 206
+	},
+	{
+		"name": "Napoli",
+		"cases": 991
+	},
+	{
+		"name": "Salerno",
+		"cases": 338
+	},
+	{
+		"name": "Campania - to be updated",
+		"cases": 127
+	},
+	{
+		"name": "Bologna",
+		"cases": 1872
+	},
+	{
+		"name": "Ferrara",
+		"cases": 306
+	},
+	{
+		"name": "Forlì-Cesena",
+		"cases": 683
+	},
+	{
+		"name": "Modena",
+		"cases": 2137
+	},
+	{
+		"name": "Parma",
+		"cases": 1859
+	},
+	{
+		"name": "Piacenza",
+		"cases": 2516
+	},
+	{
+		"name": "Ravenna",
+		"cases": 568
+	},
+	{
+		"name": "Reggio nell'Emilia",
+		"cases": 2208
+	},
+	{
+		"name": "Rimini",
+		"cases": 1382
+	},
+	{
+		"name": "Emilia Romagna - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Gorizia",
+		"cases": 91
+	},
+	{
+		"name": "Pordenone",
+		"cases": 383
+	},
+	{
+		"name": "Trieste",
+		"cases": 494
+	},
+	{
+		"name": "Udine",
+		"cases": 524
+	},
+	{
+		"name": "Friuli Venezia Giulia - to be updated",
+		"cases": 9
+	},
+	{
+		"name": "Frosinone",
+		"cases": 290
+	},
+	{
+		"name": "Latina",
+		"cases": 254
+	},
+	{
+		"name": "Rieti",
+		"cases": 105
+	},
+	{
+		"name": "Roma",
+		"cases": 2068
+	},
+	{
+		"name": "Viterbo",
+		"cases": 181
+	},
+	{
+		"name": "Lazio - to be updated",
+		"cases": 16
+	},
+	{
+		"name": "Genova",
+		"cases": 1069
+	},
+	{
+		"name": "Imperia",
+		"cases": 243
+	},
+	{
+		"name": "La Spezia",
+		"cases": 234
+	},
+	{
+		"name": "Savona",
+		"cases": 249
+	},
+	{
+		"name": "Liguria - to be updated",
+		"cases": 1422
+	},
+	{
+		"name": "Bergamo",
+		"cases": 8664
+	},
+	{
+		"name": "Brescia",
+		"cases": 8213
+	},
+	{
+		"name": "Como",
+		"cases": 1061
+	},
+	{
+		"name": "Cremona",
+		"cases": 3788
+	},
+	{
+		"name": "Lecco",
+		"cases": 1437
+	},
+	{
+		"name": "Lodi",
+		"cases": 2087
+	},
+	{
+		"name": "Mantova",
+		"cases": 1617
+	},
+	{
+		"name": "Milano",
+		"cases": 8676
+	},
+	{
+		"name": "Monza e della Brianza",
+		"cases": 2362
+	},
+	{
+		"name": "Pavia",
+		"cases": 2036
+	},
+	{
+		"name": "Sondrio",
+		"cases": 446
+	},
+	{
+		"name": "Varese",
+		"cases": 866
+	},
+	{
+		"name": "Lombardia - to be updated",
+		"cases": 908
+	},
+	{
+		"name": "Ancona",
+		"cases": 1060
+	},
+	{
+		"name": "Ascoli Piceno",
+		"cases": 197
+	},
+	{
+		"name": "Fermo",
+		"cases": 246
+	},
+	{
+		"name": "Macerata",
+		"cases": 477
+	},
+	{
+		"name": "Pesaro e Urbino",
+		"cases": 1639
+	},
+	{
+		"name": "Marche - to be updated",
+		"cases": 65
+	},
+	{
+		"name": "Campobasso",
+		"cases": 114
+	},
+	{
+		"name": "Isernia",
+		"cases": 9
+	},
+	{
+		"name": "Molise - to be updated",
+		"cases": 11
+	},
+	{
+		"name": "Alessandria",
+		"cases": 1280
+	},
+	{
+		"name": "Asti",
+		"cases": 402
+	},
+	{
+		"name": "Biella",
+		"cases": 471
+	},
+	{
+		"name": "Cuneo",
+		"cases": 650
+	},
+	{
+		"name": "Novara",
+		"cases": 733
+	},
+	{
+		"name": "Torino",
+		"cases": 4150
+	},
+	{
+		"name": "Verbano-Cusio-Ossola",
+		"cases": 376
+	},
+	{
+		"name": "Vercelli",
+		"cases": 449
+	},
+	{
+		"name": "Piemonte - to be updated",
+		"cases": 201
+	},
+	{
+		"name": "Bari",
+		"cases": 594
+	},
+	{
+		"name": "Barletta-Andria-Trani",
+		"cases": 103
+	},
+	{
+		"name": "Brindisi",
+		"cases": 164
+	},
+	{
+		"name": "Foggia",
+		"cases": 405
+	},
+	{
+		"name": "Lecce",
+		"cases": 293
+	},
+	{
+		"name": "Taranto",
+		"cases": 121
+	},
+	{
+		"name": "Puglia - to be updated",
+		"cases": 32
+	},
+	{
+		"name": "Cagliari",
+		"cases": 103
+	},
+	{
+		"name": "Nuoro",
+		"cases": 57
+	},
+	{
+		"name": "Oristano",
+		"cases": 10
+	},
+	{
+		"name": "Sassari",
+		"cases": 454
+	},
+	{
+		"name": "Sud Sardegna",
+		"cases": 58
+	},
+	{
+		"name": "Sardegna - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Agrigento",
+		"cases": 89
+	},
+	{
+		"name": "Caltanissetta",
+		"cases": 70
+	},
+	{
+		"name": "Catania",
+		"cases": 448
+	},
+	{
+		"name": "Enna",
+		"cases": 195
+	},
+	{
+		"name": "Messina",
+		"cases": 305
+	},
+	{
+		"name": "Palermo",
+		"cases": 253
+	},
+	{
+		"name": "Ragusa",
+		"cases": 35
+	},
+	{
+		"name": "Siracusa",
+		"cases": 89
+	},
+	{
+		"name": "Trapani",
+		"cases": 71
+	},
+	{
+		"name": "Sicilia - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Arezzo",
+		"cases": 310
+	},
+	{
+		"name": "Firenze",
+		"cases": 1022
+	},
+	{
+		"name": "Grosseto",
+		"cases": 251
+	},
+	{
+		"name": "Livorno",
+		"cases": 271
+	},
+	{
+		"name": "Lucca",
+		"cases": 711
+	},
+	{
+		"name": "Massa Carrara",
+		"cases": 543
+	},
+	{
+		"name": "Pisa",
+		"cases": 446
+	},
+	{
+		"name": "Pistoia",
+		"cases": 324
+	},
+	{
+		"name": "Prato",
+		"cases": 248
+	},
+	{
+		"name": "Siena",
+		"cases": 286
+	},
+	{
+		"name": "Toscana - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Trento",
+		"cases": 1682
+	},
+	{
+		"name": "P.A. Trento - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Perugia",
+		"cases": 792
+	},
+	{
+		"name": "Terni",
+		"cases": 226
+	},
+	{
+		"name": "Umbria - to be updated",
+		"cases": 33
+	},
+	{
+		"name": "Aosta",
+		"cases": 584
+	},
+	{
+		"name": "Valle d'Aosta - to be updated",
+		"cases": 0
+	},
+	{
+		"name": "Belluno",
+		"cases": 423
+	},
+	{
+		"name": "Padova",
+		"cases": 2188
+	},
+	{
+		"name": "Rovigo",
+		"cases": 131
+	},
+	{
+		"name": "Treviso",
+		"cases": 1449
+	},
+	{
+		"name": "Venezia",
+		"cases": 1107
+	},
+	{
+		"name": "Verona",
+		"cases": 1982
+	},
+	{
+		"name": "Vicenza",
+		"cases": 1168
+	},
+	{
+		"name": "Veneto - to be updated",
+		"cases": 276
+	}
+]
