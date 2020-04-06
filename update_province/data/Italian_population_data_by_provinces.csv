@@ -7,7 +7,7 @@
 5,Cuneo,587098
 6,Asti,214638
 7,Alessandria,421284
-8,Valle d'Aosta / Vallée d'Aoste,125666
+8,Aosta,125666
 9,Imperia,213840
 10,Savona,276064
 11,Genova,841180
@@ -23,8 +23,8 @@
 21,Lodi,230198
 22,Cremona,358955
 23,Mantova,412292
-24,Provincia Autonoma Bolzano / Bozen,531178
-25,Provincia Autonoma Trento,541098
+24,Bolzano,531178
+25,Trento,541098
 26,Verona,926497
 27,Vicenza,862418
 28,Belluno,202950
@@ -45,7 +45,7 @@
 43,Ravenna,389456
 44,Forlì-Cesena,394627
 45,Rimini,339017
-46,Massa-Carrara,194878
+46,Massa Carrara,194878
 47,Lucca,387876
 48,Pistoia,292473
 49,Firenze,1011349
