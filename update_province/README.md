@@ -45,3 +45,19 @@ and in this other figure we show the comparison between:
 ![](.\images\comparison_with_delta_and_pseudo.PNG)
 
 Apart from a difference in the number of infected estimated during the peak-time in two provinces, the distribution seems to fit in better than the delta of total number of cases.
+
+CORRECTED FINAL VERSION
+
+After testing our risk model on the Italian data we found that with the previous formula we possibly have discrepancies between the number of pseudo-infected and the total cases at provincial level. For this reason we chose to simplify our model assumption and our formula, computing the pseudo-infected at provincial level as:
+$$\frac{P_i(t)}{P^{tot}} =  \frac{R^i(t)}{R^{tot}}$$
+$$P_i(t) =  \frac{P^{tot}}{R^{tot}}R^i(t)$$
+
+where:
+* $R^i(t)$: the number of *infected* at time $t$ at regional level
+* $R^{tot}(t)$: the number of *total cases* at time $t$ at regional level
+* $P^i(t)$: the number of *infected* at time $t$ at province level
+* $P^{tot}(t)$: the number of *total cases* at time $t$ at province level
+
+Also in this case the distribution has a very similar shape with respect to the infected curve, moreover the number of pseudo-infected are always below the number of total cases at the provincial level (data given by Protezione Civile). 
+
+
