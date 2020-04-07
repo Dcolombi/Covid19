@@ -1,514 +1,430 @@
 [
 	{
 		"name": "Chieti",
-		"cases": 2188
+		"cases": 271
 	},
 	{
 		"name": "L'Aquila",
-		"cases": 3080
+		"cases": 152
 	},
 	{
 		"name": "Pescara",
-		"cases": 809
+		"cases": 603
 	},
 	{
 		"name": "Teramo",
-		"cases": 1203
-	},
-	{
-		"name": "Abruzzo - to be updated",
-		"cases": 0
+		"cases": 400
 	},
 	{
 		"name": "Matera",
-		"cases": 183
+		"cases": 131
 	},
 	{
 		"name": "Potenza",
-		"cases": 322
-	},
-	{
-		"name": "Basilicata - to be updated",
-		"cases": 0
+		"cases": 131
 	},
 	{
 		"name": "Bolzano",
-		"cases": 0
-	},
-	{
-		"name": "P.A. Bolzano - to be updated",
-		"cases": 0
+		"cases": 1260
 	},
 	{
 		"name": "Catanzaro",
-		"cases": 658
+		"cases": 140
 	},
 	{
 		"name": "Cosenza",
-		"cases": 885
+		"cases": 215
 	},
 	{
 		"name": "Crotone",
-		"cases": 463
+		"cases": 98
 	},
 	{
 		"name": "Reggio di Calabria",
-		"cases": 667
+		"cases": 215
 	},
 	{
 		"name": "Vibo Valentia",
-		"cases": 769
-	},
-	{
-		"name": "Calabria - to be updated",
-		"cases": 0
+		"cases": 53
 	},
 	{
 		"name": "Avellino",
-		"cases": 1576
+		"cases": 329
 	},
 	{
 		"name": "Benevento",
-		"cases": 3430
+		"cases": 95
 	},
 	{
 		"name": "Caserta",
-		"cases": 4114
+		"cases": 272
 	},
 	{
 		"name": "Napoli",
-		"cases": 2693
+		"cases": 1383
 	},
 	{
 		"name": "Salerno",
-		"cases": 3361
-	},
-	{
-		"name": "Campania - to be updated",
-		"cases": 0
+		"cases": 408
 	},
 	{
 		"name": "Bologna",
-		"cases": 19798
+		"cases": 1945
 	},
 	{
 		"name": "Ferrara",
-		"cases": 34847
+		"cases": 379
 	},
 	{
 		"name": "Forlì-Cesena",
-		"cases": 19870
+		"cases": 755
 	},
 	{
 		"name": "Modena",
-		"cases": 13300
+		"cases": 2000
 	},
 	{
 		"name": "Parma",
-		"cases": 9766
+		"cases": 1722
 	},
 	{
 		"name": "Piacenza",
-		"cases": 4884
+		"cases": 2183
 	},
 	{
 		"name": "Ravenna",
-		"cases": 27060
+		"cases": 541
 	},
 	{
 		"name": "Reggio nell'Emilia",
-		"cases": 8534
+		"cases": 2354
 	},
 	{
 		"name": "Rimini",
-		"cases": 10739
-	},
-	{
-		"name": "Emilia-Romagna - to be updated",
-		"cases": 0
+		"cases": 1171
 	},
 	{
 		"name": "Gorizia",
-		"cases": 2760
+		"cases": 79
 	},
 	{
 		"name": "Pordenone",
-		"cases": 1527
+		"cases": 317
 	},
 	{
 		"name": "Trieste",
-		"cases": 804
+		"cases": 470
 	},
 	{
 		"name": "Udine",
-		"cases": 1545
-	},
-	{
-		"name": "Friuli Venezia Giulia - to be updated",
-		"cases": 0
+		"cases": 526
 	},
 	{
 		"name": "Frosinone",
-		"cases": 2787
+		"cases": 306
 	},
 	{
 		"name": "Latina",
-		"cases": 3600
+		"cases": 286
 	},
 	{
 		"name": "Rieti",
-		"cases": 1730
+		"cases": 218
 	},
 	{
 		"name": "Roma",
-		"cases": 3364
+		"cases": 2267
 	},
 	{
 		"name": "Viterbo",
-		"cases": 2743
-	},
-	{
-		"name": "Lazio - to be updated",
-		"cases": 0
+		"cases": 199
 	},
 	{
 		"name": "Genova",
-		"cases": 3880
+		"cases": 1372
 	},
 	{
 		"name": "Imperia",
-		"cases": 3238
+		"cases": 406
 	},
 	{
 		"name": "La Spezia",
-		"cases": 4378
+		"cases": 308
 	},
 	{
 		"name": "Savona",
-		"cases": 3338
-	},
-	{
-		"name": "Liguria - to be updated",
-		"cases": 0
+		"cases": 476
 	},
 	{
 		"name": "Bergamo",
-		"cases": 16187
+		"cases": 5422
 	},
 	{
 		"name": "Brescia",
-		"cases": 19117
+		"cases": 5235
 	},
 	{
 		"name": "Como",
-		"cases": 61066
+		"cases": 814
 	},
 	{
 		"name": "Cremona",
-		"cases": 11961
+		"cases": 2353
 	},
 	{
 		"name": "Lecco",
-		"cases": 28359
+		"cases": 946
 	},
 	{
 		"name": "Lodi",
-		"cases": 14398
+		"cases": 1258
 	},
 	{
 		"name": "Mantova",
-		"cases": 28450
+		"cases": 1151
 	},
 	{
 		"name": "Milano",
-		"cases": 40823
+		"cases": 6374
 	},
 	{
 		"name": "Monza e della Brianza",
-		"cases": 40468
+		"cases": 1744
 	},
 	{
 		"name": "Pavia",
-		"cases": 29399
+		"cases": 1492
 	},
 	{
 		"name": "Sondrio",
-		"cases": 43219
+		"cases": 339
 	},
 	{
 		"name": "Varese",
-		"cases": 105490
-	},
-	{
-		"name": "Lombardia - to be updated",
-		"cases": 0
+		"cases": 714
 	},
 	{
 		"name": "Ancona",
-		"cases": 3639
+		"cases": 1125
 	},
 	{
 		"name": "Ascoli Piceno",
-		"cases": 9232
+		"cases": 189
 	},
 	{
 		"name": "Fermo",
-		"cases": 5909
+		"cases": 251
 	},
 	{
 		"name": "Macerata",
-		"cases": 5358
+		"cases": 513
 	},
 	{
 		"name": "Pesaro e Urbino",
-		"cases": 2028
-	},
-	{
-		"name": "Marche - to be updated",
-		"cases": 0
+		"cases": 1541
 	},
 	{
 		"name": "Campobasso",
-		"cases": 183
+		"cases": 139
 	},
 	{
 		"name": "Isernia",
-		"cases": 263
-	},
-	{
-		"name": "Molise - to be updated",
-		"cases": 0
+		"cases": 37
 	},
 	{
 		"name": "Alessandria",
-		"cases": 6901
+		"cases": 1554
 	},
 	{
 		"name": "Asti",
-		"cases": 10400
+		"cases": 497
 	},
 	{
 		"name": "Biella",
-		"cases": 8880
+		"cases": 476
 	},
 	{
 		"name": "Cuneo",
-		"cases": 15831
+		"cases": 926
 	},
 	{
 		"name": "Novara",
-		"cases": 10808
+		"cases": 822
 	},
 	{
 		"name": "Torino",
-		"cases": 10903
+		"cases": 5042
 	},
 	{
 		"name": "Verbano-Cusio-Ossola",
-		"cases": 8225
+		"cases": 505
 	},
 	{
 		"name": "Vercelli",
-		"cases": 8158
-	},
-	{
-		"name": "Piemonte - to be updated",
-		"cases": 0
+		"cases": 528
 	},
 	{
 		"name": "Bari",
-		"cases": 1843
+		"cases": 698
 	},
 	{
 		"name": "Barletta-Andria-Trani",
-		"cases": 3286
+		"cases": 153
 	},
 	{
 		"name": "Brindisi",
-		"cases": 1858
+		"cases": 222
 	},
 	{
 		"name": "Foggia",
-		"cases": 1283
+		"cases": 524
 	},
 	{
 		"name": "Lecce",
-		"cases": 2512
+		"cases": 327
 	},
 	{
 		"name": "Taranto",
-		"cases": 3685
-	},
-	{
-		"name": "Puglia - to be updated",
-		"cases": 0
+		"cases": 164
 	},
 	{
 		"name": "Cagliari",
-		"cases": 1331
+		"cases": 130
 	},
 	{
 		"name": "Nuoro",
-		"cases": 1447
+		"cases": 58
 	},
 	{
 		"name": "Oristano",
-		"cases": 2963
+		"cases": 24
 	},
 	{
 		"name": "Sassari",
-		"cases": 369
+		"cases": 542
 	},
 	{
 		"name": "Sud Sardegna",
-		"cases": 2227
-	},
-	{
-		"name": "Sardegna - to be updated",
-		"cases": 0
+		"cases": 66
 	},
 	{
 		"name": "Agrigento",
-		"cases": 2875
+		"cases": 97
 	},
 	{
 		"name": "Caltanissetta",
-		"cases": 1820
+		"cases": 92
 	},
 	{
 		"name": "Catania",
-		"cases": 1319
+		"cases": 545
 	},
 	{
 		"name": "Enna",
-		"cases": 411
+		"cases": 255
 	},
 	{
 		"name": "Messina",
-		"cases": 1256
+		"cases": 321
 	},
 	{
 		"name": "Palermo",
-		"cases": 2964
+		"cases": 267
 	},
 	{
 		"name": "Ragusa",
-		"cases": 4730
+		"cases": 48
 	},
 	{
 		"name": "Siracusa",
-		"cases": 2591
+		"cases": 98
 	},
 	{
 		"name": "Trapani",
-		"cases": 3108
-	},
-	{
-		"name": "Sicilia - to be updated",
-		"cases": 0
+		"cases": 92
 	},
 	{
 		"name": "Arezzo",
-		"cases": 7368
+		"cases": 342
 	},
 	{
 		"name": "Firenze",
-		"cases": 4793
+		"cases": 1563
 	},
 	{
 		"name": "Grosseto",
-		"cases": 6504
+		"cases": 251
 	},
 	{
 		"name": "Livorno",
-		"cases": 8453
+		"cases": 285
 	},
 	{
 		"name": "Lucca",
-		"cases": 3616
+		"cases": 784
 	},
 	{
 		"name": "Massa Carrara",
-		"cases": 0
+		"cases": 617
 	},
 	{
 		"name": "Pisa",
-		"cases": 6261
+		"cases": 495
 	},
 	{
 		"name": "Pistoia",
-		"cases": 6034
+		"cases": 353
 	},
 	{
 		"name": "Prato",
-		"cases": 6198
+		"cases": 302
 	},
 	{
 		"name": "Siena",
-		"cases": 6388
-	},
-	{
-		"name": "Toscana - to be updated",
-		"cases": 0
+		"cases": 309
 	},
 	{
 		"name": "Trento",
-		"cases": 0
-	},
-	{
-		"name": "P.A. Trento - to be updated",
-		"cases": 0
+		"cases": 1838
 	},
 	{
 		"name": "Perugia",
-		"cases": 895
+		"cases": 647
 	},
 	{
 		"name": "Terni",
-		"cases": 1035
-	},
-	{
-		"name": "Umbria - to be updated",
-		"cases": 0
+		"cases": 198
 	},
 	{
 		"name": "Aosta",
-		"cases": 0
-	},
-	{
-		"name": "Valle d'Aosta - to be updated",
-		"cases": 0
+		"cases": 567
 	},
 	{
 		"name": "Belluno",
-		"cases": 8122
+		"cases": 468
 	},
 	{
 		"name": "Padova",
-		"cases": 7359
+		"cases": 2402
 	},
 	{
 		"name": "Rovigo",
-		"cases": 27195
+		"cases": 170
 	},
 	{
 		"name": "Treviso",
-		"cases": 11165
+		"cases": 1448
 	},
 	{
 		"name": "Venezia",
-		"cases": 12893
+		"cases": 1248
 	},
 	{
 		"name": "Verona",
-		"cases": 7421
+		"cases": 2311
 	},
 	{
 		"name": "Vicenza",
-		"cases": 11274
-	},
-	{
-		"name": "Veneto - to be updated",
-		"cases": 0
+		"cases": 1430
 	}
 ]

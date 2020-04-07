@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import io
 from typing import Union
+from functools import partial
 
 #
 # PARAMETERS
@@ -86,20 +87,19 @@ def prepare_region_data(datadf:pd.DataFrame) -> pd.DataFrame:
 
 def pseudoinfected_for_provinces(provincedf:pd.DataFrame, regiondf:pd.DataFrame = None):
     """
-    P_i[t] =  R_i[t] / (R_tot[t]/R_pop) * (P_tot[t]/P_pop)
-           =  R_i[t] * R_pop / R_tot[t] * (P_tot[t]/P_pop)
+    P_i[t] = R_i[t]/R_tot[t] * P_tot[t]
+           = regional_correction * P_tot[t]
     """
-    provincedf["correction_addendum"] = provincedf["tot_cases"] / provincedf["population"]
-    R_tot_dv_R_pop = provincedf.groupby("region").correction_addendum.sum()
-    regiondf["correction"] = regiondf["infected"] / R_tot_dv_R_pop.values
-    #regiondf["correction"] = regiondf["infected"] * regiondf["population"]/regiondf["tot_cases"]
-    regiondf.loc[lambda df: df["tot_cases"]==0., "correction"] = 0.
-    regional_correction = regiondf.set_index("name")["correction"].to_dict()
-    provincedf["pseudo_infected"] = (provincedf["region"].map(regional_correction) * provincedf["tot_cases"] / provincedf["population"] )
-    provincedf.loc[lambda df: df["tot_cases"]==0.,"pseudo_infected"] = 0.
-    provincedf = provincedf.assign(pseudo_infected=lambda df: df.pseudo_infected.fillna(0))\
-                           .assign(pseudo_infected=lambda df: df.pseudo_infected.round(0).astype(int))
-    return provincedf
+    def compute_correction(row: pd.Series) -> pd.Series:
+        return row["infected"]/row["tot_cases"] if row["tot_cases"]!=0 else 0
+
+    def pseudo_infected(row: pd.Series, correction: dict = {}) -> pd.Series:
+        return correction[row["region"]] * row["tot_cases"]
+
+    regional_correction = regiondf.set_index("name").apply(compute_correction, axis=1).to_dict()
+    tmpdf = provincedf.assign(pseudo_infected=lambda df: df.apply(partial(pseudo_infected, correction=regional_correction), axis=1))\
+                      .assign(pseudo_infected=lambda df: df.pseudo_infected.round(0).astype(int))
+    return tmpdf
 
 
 def parse_and_dump_json(data:list, file:io.TextIOWrapper) -> None:
